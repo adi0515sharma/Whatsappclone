@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">whatsapp clone</string>
+    <string name="enter_your_number">Enter your phone number</string>
+    <string name="login_screen_2nd_text"><b>Whatsapp clone</b> want need to verify your phone number.</string>
+    <string name="waiting_for_otp">WhatsApp clone try to send otp  number.</string>
+
+</resources>

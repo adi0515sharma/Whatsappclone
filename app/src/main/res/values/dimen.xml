@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading_size">20dp</dimen>
+    <dimen name="sub_heading_size">16dp</dimen>
+    <dimen name="edit_text_for_verification_screen">76dp</dimen>
+    <dimen name="btn_size">66dp</dimen>
+    <dimen name="h1">25dp</dimen>
+    <dimen name="app_bar_height">60dp</dimen>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "916942016772",
+    "project_id": "whatsapp-clone-b94c8",
+    "storage_bucket": "whatsapp-clone-b94c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916942016772:android:6aecb9dd5cca4a15830051",
+        "android_client_info": {
+          "package_name": "com.sample.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916942016772-pepgalohrv4qrddkgiujpkkdnca16kjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sample.whatsappclone",
+            "certificate_hash": "a24d82f9164a91b178b5ce1bae31897eac10f432"
+          }
+        },
+        {
+          "client_id": "916942016772-1sqhv84033bq60tk71rhgjftpsli5b1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsf8Q-56oDGf6s1inaFV4UtwGjqbnEs84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916942016772-1sqhv84033bq60tk71rhgjftpsli5b1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
