@@ -6,4 +6,4 @@ Task of this app is to make conversation from person1 to person2 . it support li
 
 
 ## Notification from the sender 
-![](images/notif.jpeg) &nbsp;
+<img src="images/notif.jpeg" alt="Your image title" width="250"/>
