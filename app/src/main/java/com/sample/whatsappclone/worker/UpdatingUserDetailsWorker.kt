@@ -156,7 +156,11 @@ class UpdatingUserDetailsWorker constructor(var context : Context, params:Worker
                             val displayNumber = cursor.getString(indexOfDisplayNumber)
                             var c : Contact = Contact()
                             c.name = displayName;
-                            c.phone_number = displayNumber.replace(" ","")
+                            c.phone_number = displayNumber
+                                .replace(" ","")
+                                .replace("(","")
+                                .replace(")","")
+                                .replace("-","")
                             c.exist =""
                             c.icon = ""
                             PhoneContacts2.add(c)
